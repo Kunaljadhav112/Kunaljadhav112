@@ -5,3 +5,5 @@
 📫 How to reach me : https://www.linkedin.com/in/kunal-jadhav-78301516b/
 😄 Pronouns: He/Him
 🎨 Fun fact: I blend my love for pizza with my data skills, constantly cooking up new recipes and visualizations!
+
+[![Kunal Jadhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunaljadhav112&count_private=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
