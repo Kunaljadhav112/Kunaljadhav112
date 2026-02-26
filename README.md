@@ -10,7 +10,6 @@
 - 👯 **I’m looking to collaborate on:** Data Analytics, Financial Analysis & Dashboard Development Projects
 - 💬 **Ask me about:** Business Insights, KPI Dashboards, Data-Driven Decision Making
 - ⚡ **Fun fact:** I enjoy turning complex datasets into simple, actionable insights.
-I believe data tells a story — my goal is to help businesses understand and act on it.
 
 ## 🚀 Key Achievements
 
