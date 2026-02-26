@@ -1,9 +1,10 @@
 # 💫 Hi 👋, I'm Kunal Jadhav
-**Associate Business Analyst || Data Analyst || SQL • Power BI • Excel**
+**Associate Business Analyst || Data Analyst || SQL • Power BI • Excel • Data-Driven Decision Making**
 
-📊 I help businesses transform raw data into actionable insights using SQL, Power BI, and Excel to drive smarter decision-making.
+📊 I help businesses transform raw data into actionable insights using SQL, Power BI, and Excel to drive measurable business impact.
 
-📫 Reach me at: kunal.jadhav303@gmail.com Open to collaborations and data analytics projects.
+📫 Reach me at: kunal.jadhav303@gmail.com
+🤝 Open to collaborations and data analytics projects.
 
 - 🔭 **I’m currently working on:** End-to-end Data Analytics projects (SQL + Power BI dashboards)
 - 🌱 **I’m currently learning:** Advanced SQL, DAX Optimization & Python for Data Analytics
