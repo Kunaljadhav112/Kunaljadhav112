@@ -9,11 +9,16 @@
 - 🌱 **I’m currently learning:** Advanced SQL, DAX Optimization & Python for Data Analytics
 - 👯 **I’m looking to collaborate on:** Data Analytics, Financial Analysis & Dashboard Development Projects
 - 💬 **Ask me about:** Business Insights, KPI Dashboards, Data-Driven Decision Making
-- 📫 **How to reach me:** kunal.jadhav303@gmail.com
 - ⚡ **Fun fact:** I enjoy turning complex datasets into simple, actionable insights.
-- 
 I believe data tells a story — my goal is to help businesses understand and act on it.
 
+## 🚀 Key Achievements
+
+- ⏳ Automated reporting processes, saving **8–10 hours per week** and reducing report cycle time by **35%**.
+- 💰 Identified **30% underutilized Jira licenses**, optimized allocation, and reduced annual costs by **₹5 lakhs**.
+- 📉 Improved cash flow by reducing outstanding collections backlog by **18%** and strengthening financial controls by **20%**.
+- 📊 Built **SQL & Power BI dashboards**, reducing manual effort by **50%** and enabling real-time KPI tracking.
+  
 # 💻 Tech Stack:
 
 ## 📊 Data Analytics & Programming
