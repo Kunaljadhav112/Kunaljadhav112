@@ -12,3 +12,6 @@ Email Me 👉 ✉️ **kunal.jadhav303@gmail.com** For Collaboration/Project or 
 - 💬 **Ask me about:** Business Insights, KPI Dashboards, Data-Driven Decision Making
 - 📫 **How to reach me:** kunal.jadhav303@gmail.com
 - ⚡ **Fun fact:** I enjoy turning complex datasets into simple, actionable insights.
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
