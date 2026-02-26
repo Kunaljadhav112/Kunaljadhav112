@@ -46,7 +46,9 @@ Email Me 👉 ✉️ **kunal.jadhav303@gmail.com** For Collaboration/Project or 
 ![Microsoft Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Zoho Desk](https://img.shields.io/badge/Zoho%20Desk-E42527?style=for-the-badge)
+![Zoho Desk](https://img.shields.io/badge/Zoho%20Desk-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+
+
 
 <!-- Snake Game Repo View -->
 
