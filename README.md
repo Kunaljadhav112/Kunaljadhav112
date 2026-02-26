@@ -1,9 +1,14 @@
-👋 Hi, I’m @Kunaljadhav112
-👀 I’m interested in SQL, Python, and Power BI
-🌱 I’m currently learning advanced data analytics techniques and machine learning
-💞️ I’m looking to collaborate on data-driven projects, especially those involving business intelligence and visualization
-📫 How to reach me : https://www.linkedin.com/in/kunal-jadhav-78301516b/
-😄 Pronouns: He/Him
-🎨 Fun fact: I blend my love for pizza with my data skills, constantly cooking up new recipes and visualizations!
+# 💫 Hi 👋, I'm Kunal Jadhav
+**Associate Business Analyst || Aspiring Data Analyst || SQL • Power BI • Excel**
 
-https://github-readme-stats.vercel.app/api?username=Kunaljadhav112&show_icons=true&theme=radical
+📊 Passionate about transforming raw data into meaningful business insights that drive strategic decision-making.
+
+Email Me 👉 ✉️ **kunal.jadhav303@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** End-to-end Data Analytics projects (SQL + Power BI dashboards)
+- 🌱 **I’m currently learning:** Advanced SQL, DAX Optimization & Python for Data Analytics
+- 👯 **I’m looking to collaborate on:** Data Analytics, Financial Analysis & Dashboard Development Projects
+- 🤔 **Core Skills:** SQL, Power BI, Advanced Excel, PostgreSQL, MongoDB Data Cleaning, Data Visualization, Financial Analysis
+- 💬 **Ask me about:** Business Insights, KPI Dashboards, Data-Driven Decision Making
+- 📫 **How to reach me:** kunal.jadhav303@gmail.com
+- ⚡ **Fun fact:** I enjoy turning complex datasets into simple, actionable insights.
