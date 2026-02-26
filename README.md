@@ -48,5 +48,11 @@ Email Me 👉 ✉️ **kunal.jadhav303@gmail.com** For Collaboration/Project or 
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Zoho Desk](https://img.shields.io/badge/Zoho%20Desk-E42527?style=for-the-badge)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
